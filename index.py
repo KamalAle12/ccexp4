@@ -1,2 +1,2 @@
-print(21BCS10155)
-print(Kamal Ale Magar)
+print("21BCS10155")
+print("Kamal Ale Magar")
